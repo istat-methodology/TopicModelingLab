@@ -32,14 +32,6 @@
   </a>
 </div>
 
-
-
-<div align="center">
-  
-  <a href="">![GitHub Repo stars](https://img.shields.io/github/stars/istat-methodology/TopicModelingLab?style=for-the-badge&logo=github)</a>
-
-</div>
-
 ---
 
 ## What is Topic Modeling?
