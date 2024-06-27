@@ -18,18 +18,18 @@
 </p>
 
 <div align="center">
-  
-  <a href="">![Static Badge](https://img.shields.io/badge/Mauro%20Bruno-white?logo=researchgate&link=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FMauro-Bruno-2)</a>
-  <a href="">![Static Badge](https://img.shields.io/badge/Elena%20Catanese-white?logo=researchgate&link=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FElena-Catanese-2)</a>
-  <a href="">![Static Badge](https://img.shields.io/badge/Francesco%20Ortame-white?logo=researchgate&link=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FFrancesco-Ortame-3)</a>
-  <a href="">![Static Badge](https://img.shields.io/badge/Francesco%20Pugliese-white?logo=researchgate&link=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FFrancesco-Pugliese-9)</a>
-
-</div>
-
-<div align="center">
-  
-  <a href="">![GitHub Repo stars](https://img.shields.io/github/stars/istat-methodology/TopicModelingLab?style=for-the-badge&logo=github)</a>
-
+  <a href="https://www.researchgate.net/profile/Mauro-Bruno-2">
+    <img src="https://img.shields.io/badge/Mauro%20Bruno-white?logo=researchgate" alt="Mauro Bruno">
+  </a>
+  <a href="https://www.researchgate.net/profile/Elena-Catanese-2">
+    <img src="https://img.shields.io/badge/Elena%20Catanese-white?logo=researchgate" alt="Elena Catanese">
+  </a>
+  <a href="https://www.researchgate.net/profile/Francesco-Ortame-3">
+    <img src="https://img.shields.io/badge/Francesco%20Ortame-white?logo=researchgate" alt="Francesco Ortame">
+  </a>
+  <a href="https://www.researchgate.net/profile/Francesco-Pugliese-9">
+    <img src="https://img.shields.io/badge/Francesco%20Pugliese-white?logo=researchgate" alt="Francesco Pugliese">
+  </a>
 </div>
 
 ---
