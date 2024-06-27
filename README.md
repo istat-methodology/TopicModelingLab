@@ -19,7 +19,9 @@
 
 <div align="center">
   
-  <a href="">![Static Badge](https://img.shields.io/badge/Mauro%20Bruno-white?logo=researchgate&link=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FMauro-Bruno-2)</a>
+  <a href="https://www.researchgate.net/profile/Mauro-Bruno-2">
+  <img src="https://img.shields.io/badge/Mauro%20Bruno-white?logo=researchgate" alt="Static Badge">
+</a>
   <a href="">![Static Badge](https://img.shields.io/badge/Elena%20Catanese-white?logo=researchgate&link=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FElena-Catanese-2)</a>
   <a href="">![Static Badge](https://img.shields.io/badge/Francesco%20Ortame-white?logo=researchgate&link=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FFrancesco-Ortame-3)</a>
   <a href="">![Static Badge](https://img.shields.io/badge/Francesco%20Pugliese-white?logo=researchgate&link=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FFrancesco-Pugliese-9)</a>
