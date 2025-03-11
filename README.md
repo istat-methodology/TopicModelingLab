@@ -1,5 +1,3 @@
-![CARMA 2024 Conference](https://github.com/istat-methodology/TopicModelingLab/blob/main/resources/carma2024.png)
-
 <h1 align="center">
   Topic Modeling Tutorial
 </h1>
